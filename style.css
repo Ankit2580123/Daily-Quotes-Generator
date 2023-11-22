@@ -112,12 +112,18 @@ body{
                                         width: 400px;
                                      
                     }
+                    .quotesBox blockquote{
+                                        font-size: 24px
+                    }
                   }
                   @media screen and (max-width: 425px) {
 
                     .quotesBox{
-                                        width: 350px;
+                                        width: 360px;
                                      
+                    }
+                    .quotesBox blockquote{
+                                        font-size: 22px
                     }
                   }
                   
