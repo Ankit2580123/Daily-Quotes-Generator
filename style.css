@@ -92,3 +92,32 @@ body{
                     background: transparent;
                     color: #333;
 }
+@media screen and (max-width: 736px) {
+
+                    .quotesBox{
+                                        width: 600px;
+                                     
+                    }
+                  }
+                  @media screen and (max-width: 632px) {
+
+                    .quotesBox{
+                                        width: 500px;
+                                     
+                    }
+                  }
+                  @media screen and (max-width: 515px) {
+
+                    .quotesBox{
+                                        width: 400px;
+                                     
+                    }
+                  }
+                  @media screen and (max-width: 425px) {
+
+                    .quotesBox{
+                                        width: 350px;
+                                     
+                    }
+                  }
+                  
